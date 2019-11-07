@@ -1,2 +1,2 @@
-# Python-JN-Demos
+# Python-Demos
 Introductory python demos
