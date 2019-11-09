@@ -3,8 +3,8 @@
 Created on Mon Oct  7 17:54:54 2019
 
 @author: Charles Garrett Eason
-ML2
-HW6
+
+MLP NN Functional Approximation
 """
 #%%Packages
 
