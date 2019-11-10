@@ -2,9 +2,9 @@
 
 # Code:
 
-Python_Basics_1.ipynb - covers basic, intermediate, and advanced Python syntax.  Also introduces some basic packages (numpy, pandas, etc.).
+Python_1_Syntax_Basics.ipynb - covers basic, intermediate, and advanced Python syntax.  Also introduces some basic packages (numpy, pandas, etc.).
 
-Python_Web_Scraping/NLP_Basics_2 - covers basic web scraping and natural languate processing (beautiful soup, nltk, and spacy).
+Python_2_Web_Scraping/NLP_Basics.ipynb - covers basic web scraping and natural languate processing (beautiful soup, nltk, and spacy).
 
 # Data:
 
