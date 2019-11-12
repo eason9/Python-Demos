@@ -12,6 +12,8 @@ wages_hours.csv - Dataset used in "Python_Basics_1.ipynb".
 
 Debate Texts - Folder containing several presidential debates.
 
+newswire_error.txt - File containing a newswire typo.
+
 # Web Drivers:
 
 geckodriver.exe - Gecko Driver from Mozilla for use with Selenium.
