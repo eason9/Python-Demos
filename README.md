@@ -11,3 +11,7 @@ Python_2_Web_Scraping&NLP_Basics.ipynb - covers basic web scraping and natural l
 wages_hours.csv - Dataset used in "Python_Basics_1.ipynb".
 
 Debate Texts - Folder containing several presidential debates.
+
+# Web Drivers:
+
+geckodriver.exe - Gecko Driver from Mozilla for use with Selenium.
