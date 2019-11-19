@@ -6,6 +6,8 @@ Python_1_Syntax_Basics.ipynb - covers basic, intermediate, and advanced Python s
 
 Python_2_Web_Scraping&NLP_Basics.ipynb - covers basic web scraping and natural languate processing (beautiful soup, nltk, and spacy).
 
+Python_3_ANNs.ipynb - Covers an introduction into supervised learning, specifically covers the MLP and includes a MLP designed by hand.
+
 # Data:
 
 wages_hours.csv - Dataset used in "Python_Basics_1.ipynb".
