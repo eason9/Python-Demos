@@ -16,6 +16,8 @@ Debate Texts - Folder containing several presidential debates.
 
 newswire_error.txt - File containing a newswire typo.
 
+Python_3 Photos - Photos for the Python_3_ANN.ipynb
+
 # Web Drivers:
 
 geckodriver.exe - Gecko Driver from Mozilla for use with Selenium.
